@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="snake.svg" alt="snake.svg" />
+<img src="pacman.svg" alt="pacman.svg" />
 
 ###
